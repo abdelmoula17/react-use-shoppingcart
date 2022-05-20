@@ -14,6 +14,20 @@ A light weight custom hook for handling shopping cart logic, and make youre life
 
 ## Usage/Examples
 
+## Install
+
+```
+npm i react-use-shoppingcart
+```
+
+or
+
+```
+yarn add react-use-shoppingcart
+```
+
+### basic Usage
+
 ### app.js
 
 ```javascript
